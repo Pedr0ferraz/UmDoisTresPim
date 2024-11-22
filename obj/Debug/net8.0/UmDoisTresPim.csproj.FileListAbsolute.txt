@@ -1,0 +1,14 @@
+C:\Users\user\UmDoisTresPim\bin\Debug\net8.0\UmDoisTresPim.exe
+C:\Users\user\UmDoisTresPim\bin\Debug\net8.0\UmDoisTresPim.deps.json
+C:\Users\user\UmDoisTresPim\bin\Debug\net8.0\UmDoisTresPim.runtimeconfig.json
+C:\Users\user\UmDoisTresPim\bin\Debug\net8.0\UmDoisTresPim.dll
+C:\Users\user\UmDoisTresPim\bin\Debug\net8.0\UmDoisTresPim.pdb
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\UmDoisTresPim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\UmDoisTresPim.AssemblyInfoInputs.cache
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\UmDoisTresPim.AssemblyInfo.cs
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\UmDoisTresPim.csproj.CoreCompileInputs.cache
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\UmDoisTresPim.dll
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\refint\UmDoisTresPim.dll
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\UmDoisTresPim.pdb
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\UmDoisTresPim.genruntimeconfig.cache
+C:\Users\user\UmDoisTresPim\obj\Debug\net8.0\ref\UmDoisTresPim.dll
